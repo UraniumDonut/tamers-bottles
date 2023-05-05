@@ -1,7 +1,7 @@
 wine front: 10x14cm 2000x2800px
 wine back: 8x7.5cm 1600x1500px
 
-whiskey front: 10x11cm 2000x2200px
-whiskey back: 9x6cm 1800x1200px
+rum front: 10x11cm 2000x2200px
+rum back: 9x6cm 1800x1200px
 
 gerolsteiner: 29x10cm 5800x2000px
